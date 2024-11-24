@@ -15,7 +15,7 @@ pip install deep_autograd
 - Checkout usage in [demo.ipynb](./notebooks/demo.ipynb)
 - and, in [trace_graph.ipynb](./notebooks/trace_graph.ipynb)
 
-![](https://github.com/deependujha/deep-autograd/blob/main/notebooks/gout.svg)
+![](./notebooks/gout.svg)
 
 ---
 
