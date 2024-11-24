@@ -2,8 +2,8 @@
 authors = ["Deependu Jha <deependujha21@gmail.com>"]
 description = "A tiny scalar-valued autograd engine with a small PyTorch-like neural network library on top."
 license = "MIT"
-name = "autograd"
-packages = [{include = "deep-autograd", from = "src"}]
+name = "deep_autograd"
+packages = [{include = "deep_autograd", from = "src"}]
 readme = "README.md"
 version = "0.1.0"
 
