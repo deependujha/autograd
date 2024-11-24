@@ -5,7 +5,7 @@ license = "MIT"
 name = "deep_autograd"
 packages = [{include = "deep_autograd", from = "src"}]
 readme = "README.md"
-version = "0.1.0"
+version = "0.2.0"
 
 [tool.poetry.dependencies]
 python = "^3.8"
