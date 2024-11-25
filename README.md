@@ -21,6 +21,32 @@ pip install deep_autograd
 
 ---
 
+## Development
+
+- To setup project:
+
+```bash
+make setup
+```
+
+---
+
+## Tests
+
+- To run tests:
+
+```bash
+pytest
+```
+
+---
+
+## License
+
+[MIT](./LICENSE)
+
+---
+
 ## Credits
 
 - [Andrej Karpathy](https://github.com/karpathy)
